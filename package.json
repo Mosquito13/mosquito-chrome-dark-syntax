@@ -1,0 +1,19 @@
+{
+  "name": "mosquito-chrome-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme based on chrome dev tools dark skin",
+  "keywords": [
+    "syntax",
+    "theme",
+    "chrome",
+    "devtools",
+    "dark",
+    "mosquito"
+  ],
+  "repository": "https://github.com/Mosquito13/mosquito-chrome-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
