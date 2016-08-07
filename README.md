@@ -1,5 +1,32 @@
 # dark-mosquito-syntax theme
 
-A short description of your theme.
+Syntax theme based on chrome dev tools dark skin.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+###Supported languages
+* HTML
+* JS
+* CSS
+* Less
+* JSON
+* PHP
+* XML
+
+If you use a language that isn't here, open a pull request or an issue.
+
+###Screenshots
+
+HTML
+
+![screenshots](https://raw.github.com/Mosquito13/screenshots/master/mosquito-chrome-dark-syntax/HTML.gif)
+
+JS
+
+![screenshots](https://raw.github.com/Mosquito13/screenshots/master/mosquito-chrome-dark-syntax/JS.gif)
+
+CSS
+
+![screenshots](https://raw.github.com/Mosquito13/screenshots/master/mosquito-chrome-dark-syntax/CSS.gif)
+
+PHP
+
+![screenshots](https://raw.github.com/Mosquito13/screenshots/master/mosquito-chrome-dark-syntax/PHP.gif)
