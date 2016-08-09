@@ -438,6 +438,13 @@ atom-text-editor[mini] .scroll-view,
   color: @syntax-php-class-property;
 }
 
+.string.quoted.double.php,
+.string.quoted.single.php {
+  .constant.character.escape.php {
+    color: @syntax-support;
+  }
+}
+
 .string.quoted.single.sql.php,
 .string.quoted.double.sql.php {
   color: @syntax-support;
@@ -455,7 +462,16 @@ atom-text-editor[mini] .scroll-view,
     color: @syntax-php-sql-constant;
   }
 
-  .support.function.aggregate.sql {
+  .support.function.aggregate.sql,
+  .support.function.string.sql,
+  .storage.type.sql {
     color: @syntax-keyword;
+  }
+}
+
+// Jade
+.source.jade {
+  .string.interpolated.jade {
+    color: @syntax-js-keyword;
   }
 }

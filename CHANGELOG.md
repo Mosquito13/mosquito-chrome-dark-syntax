@@ -1,2 +1,6 @@
-## 0.0.0 - First Release
+## 0.2.0 (08-08-2016)
+* Fixed some keywords in SQL string in PHP syntax
+* Fixed color of escaped characters in PHP syntax
+
+## 0.1.0 (07-08-2016)
 * First release
