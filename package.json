@@ -1,7 +1,7 @@
 {
   "name": "mosquito-chrome-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Syntax theme based on chrome dev tools dark skin",
   "keywords": [
     "syntax",
